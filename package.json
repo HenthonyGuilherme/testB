@@ -1,0 +1,14 @@
+{
+  "name": "treino",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto npm",
+  "main": "index.html",
+  "scripts": {
+    "test": 
+  },
+  "keywords": [
+    "treino"
+  ],
+  "author": "Henthony",
+  "license": "ISC"
+}
